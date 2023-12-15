@@ -33,7 +33,7 @@ Para executar o projeto Figma tera que abrir o link logo abaixo e executa - lo d
 
 link do Projeto: https://www.figma.com/file/BNqjkO7QbK1x4hVjRsqGVN/PROJETO-PUC-RIO-2023?type=design&node-id=16%3A22&mode=design&t=464pTNQL2oAUwIzk-1 OU 
 
-https://www.figma.com/file/BNqjkO7QbK1x4hVjRsqGVN/PROJETO-PUC-RIO-2023?type=design&node-id=16%3A22&mode=design&t=u6QjBi8AiTEIa2Ve-1
+https://www.figma.com/file/BNqjkO7QbK1x4hVjRsqGVN/PROJETO-PUC-RIO-2023?type=design&node-id=16%3A22&mode=design&t=kayBCCNfiWgbn2ac-1
 
 Boa Tarde Professores da Puc RIO, Venho lhe informar que atualizei o front por motivo de erros para este link : https://github.com/fabiomendes33/Trabalho-Front-End-Avan-ado.git 
 Desde ja Agradeço .
